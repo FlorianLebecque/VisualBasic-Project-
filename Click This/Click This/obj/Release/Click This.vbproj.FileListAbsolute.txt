@@ -1,0 +1,11 @@
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\bin\Release\Click This.exe.config
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\bin\Release\Click This.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\bin\Release\Click This.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\bin\Release\Click This.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click_This.Form1.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click_This.Form2.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click_This.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click This.vbproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click This.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click This.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Click This\Click This\obj\Release\Click This.pdb
