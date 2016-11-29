@@ -1,0 +1,10 @@
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\x64\Release\bumble_Breaker.exe.config
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\x64\Release\bumble_Breaker.exe
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\x64\Release\bumble_Breaker.pdb
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\x64\Release\bumble_Breaker.xml
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.Form1.resources
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.Resources.resources
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.vbproj.GenerateResource.Cache
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.exe
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.xml
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\x64\Release\bumble_Breaker.pdb

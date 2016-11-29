@@ -1,0 +1,11 @@
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\Debug\bumble_Breaker.exe.config
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\Debug\bumble_Breaker.exe
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\Debug\bumble_Breaker.pdb
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\bin\Debug\bumble_Breaker.xml
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.Form1.resources
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.Resources.resources
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.vbproj.GenerateResource.Cache
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.exe
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.xml
+c:\users\flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.pdb
+C:\Users\Flori\documents\visual studio 2013\Projects\bumble_Breaker\bumble_Breaker\obj\Debug\bumble_Breaker.vbprojResolveAssemblyReference.cache
