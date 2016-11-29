@@ -1,0 +1,12 @@
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\x64\Release\Bar.exe.config
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\x64\Release\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\x64\Release\Bar.pdb
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\x64\Release\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.Form1.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.Form2.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.Form3.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.Resources.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.vbproj.GenerateResource.Cache
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\x64\Release\Bar.pdb

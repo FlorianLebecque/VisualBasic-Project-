@@ -1,0 +1,36 @@
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.exe.config
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form1.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form2.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.vbproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.pdb
+F:\Projet\Bar\Bar\bin\Release\Bar.exe.config
+F:\Projet\Bar\Bar\obj\Release\Bar.exe
+F:\Projet\Bar\Bar\obj\Release\Bar.xml
+F:\Projet\Bar\Bar\obj\Release\Bar.pdb
+F:\Projet\Bar\Bar\bin\Release\Bar.exe
+F:\Projet\Bar\Bar\bin\Release\Bar.pdb
+F:\Projet\Bar\Bar\bin\Release\Bar.xml
+F:\Projet\Bar\Bar\obj\Release\Bar.Form1.resources
+F:\Projet\Bar\Bar\obj\Release\Bar.Form2.resources
+F:\Projet\Bar\Bar\obj\Release\Bar.Resources.resources
+F:\Projet\Bar\Bar\obj\Release\Bar.vbproj.GenerateResource.Cache
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.exe.config
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.pdb
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.pdb
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Release\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form1.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form2.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form3.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Resources.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.vbproj.GenerateResource.Cache
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.Form4.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Release\Bar.vbprojResolveAssemblyReference.cache

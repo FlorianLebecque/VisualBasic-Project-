@@ -1,0 +1,45 @@
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Form1.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.vbproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Form2.resources
+F:\Projet\Bar\Bar\bin\Debug\Bar.exe.config
+F:\Projet\Bar\Bar\obj\Debug\Bar.exe
+F:\Projet\Bar\Bar\obj\Debug\Bar.xml
+F:\Projet\Bar\Bar\obj\Debug\Bar.pdb
+F:\Projet\Bar\Bar\bin\Debug\Bar.exe
+F:\Projet\Bar\Bar\bin\Debug\Bar.pdb
+F:\Projet\Bar\Bar\bin\Debug\Bar.xml
+F:\Projet\Bar\Bar\obj\Debug\Bar.Form1.resources
+F:\Projet\Bar\Bar\obj\Debug\Bar.Form2.resources
+F:\Projet\Bar\Bar\obj\Debug\Bar.Resources.resources
+F:\Projet\Bar\Bar\obj\Debug\Bar.vbproj.GenerateResource.Cache
+E:\Projet\Bar\Bar\bin\Debug\Bar.exe.config
+E:\Projet\Bar\Bar\obj\Debug\Bar.exe
+E:\Projet\Bar\Bar\obj\Debug\Bar.xml
+E:\Projet\Bar\Bar\obj\Debug\Bar.pdb
+E:\Projet\Bar\Bar\bin\Debug\Bar.exe
+E:\Projet\Bar\Bar\bin\Debug\Bar.pdb
+E:\Projet\Bar\Bar\bin\Debug\Bar.xml
+E:\Projet\Bar\Bar\obj\Debug\Bar.Form1.resources
+E:\Projet\Bar\Bar\obj\Debug\Bar.Form2.resources
+E:\Projet\Bar\Bar\obj\Debug\Bar.Resources.resources
+E:\Projet\Bar\Bar\obj\Debug\Bar.vbproj.GenerateResource.Cache
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.exe.config
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.pdb
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.exe
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.pdb
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\bin\Debug\Bar.xml
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Form1.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Form2.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Form3.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.Resources.resources
+C:\Users\Flori\Documents\Visual Studio 2013\Projects\Bar\Bar\obj\Debug\Bar.vbproj.GenerateResource.Cache
