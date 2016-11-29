@@ -1,0 +1,10 @@
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe.config
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.Form1.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.vbproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\bin\Debug\MasterMind.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\MasterMind\MasterMind\obj\Debug\MasterMind.pdb
