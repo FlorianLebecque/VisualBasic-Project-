@@ -1,0 +1,10 @@
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\bin\Debug\NetCryting.exe.config
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\bin\Debug\NetCryting.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\bin\Debug\NetCryting.pdb
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\bin\Debug\NetCryting.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.Form1.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.Resources.resources
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.vbproj.GenerateResource.Cache
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.exe
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.xml
+C:\Users\Florian\Documents\Visual Studio 2013\Projects\NetCryting\NetCryting\obj\Debug\NetCryting.pdb
